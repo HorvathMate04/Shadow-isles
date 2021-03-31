@@ -1,8 +1,4 @@
-body{
-    background-image: url(img/háttér.jpg);
-    background-repeat: no-repeat;
-    background-size: 1920px 2000px;
-}
+
 .container{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
@@ -15,7 +11,6 @@ body{
 .hecaháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1380px;
     margin:0 auto;
 }
 .alapkép{
@@ -127,14 +122,14 @@ a:hover{
 .szöv1{
     grid-column-start: 2;
     grid-column-end: 6;
-    grid-row-start: 2;
+    grid-row-start: 1;
     grid-row-end: 8;
     text-align: center;
 }
 .szöv2{
     grid-column-start: 17;
     grid-column-end: 21;
-    grid-row-start: 2;
+    grid-row-start: 1;
     grid-row-end: 8;
     text-align: center;
 }
@@ -166,49 +161,41 @@ h1{
 .eliseháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1400px;
     margin:0 auto;
 }
 .kalistaháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1325px;
     margin:0 auto;
 }
 .karthusháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1610px;
     margin:0 auto;
 }
 .maokaiháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1540px;
     margin:0 auto;
 }
 .mordeháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1390px;
     margin:0 auto;
 }
 .threshháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1460px;
     margin:0 auto;
 }
 .viegoháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1390px;
     margin:0 auto;
 }
 .yorickháttér{
     background-color: rgba(120, 120, 120, 0.8);
     width: 1050px;
-    height: 1450px;
     margin:0 auto;
 }
 .viegoskinskin{
@@ -219,4 +206,9 @@ h1{
 }
 .footer{
     float: top;
+}
+.container1{
+    background-color: rgba(120, 120, 120, 0.8);
+    width: 1050px;
+    margin:0 auto;
 }
